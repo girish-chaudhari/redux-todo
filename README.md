@@ -5,18 +5,18 @@ https://girish-chaudhari.github.io/redux-todo/
 
 
 # STEPS
-1 ✏️ git init
-2 ✏️ git add .
-3 ✏️ git commit -m "This project was created for learning purpose"
-# ✏️ Make repository on GitHub
+ 1 ✏️ git init
+ 2 ✏️ git add .
+ 3 ✏️ git commit -m "This project was created for learning purpose"
+ 4 ✏️ Make repository on GitHub
 
-# ✏️ git remote add origin htttps://girish-chaudhari.github.io/redux-todo
-4 ✏️ git push -u origin master
-# npm install --save gh-pages 
+ 5✏️ git remote add origin htttps://girish-chaudhari.github.io/redux-todo
+ 6 ✏️ git push -u origin master
+ 7 npm install --save gh-pages 
 
 👇👇👇👇👇
-add homepage,
-after that predeploy, and deploy
+ 8 add homepage,
+  after that predeploy, and deploy
 
 {
   "name": "todo",
