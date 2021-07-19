@@ -18,50 +18,13 @@ https://girish-chaudhari.github.io/redux-todo/
  8 add homepage,
   after that predeploy, and deploy
 
-{
-  "name": "todo",
-  "version": "0.1.0",
-  "private": true,
+after private please write code ....
   "homepage": "http://girish-chaudhari.github.io/redux-todo",
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.4",
-    "react-scripts": "4.0.3",
-    "redux": "^4.1.0",
-    "web-vitals": "^1.1.2"
-  },
-  "scripts": {
+  in the scripts write code -:
+  "scripts":
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
-}
 
+ 
